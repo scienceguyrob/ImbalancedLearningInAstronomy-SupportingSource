@@ -1,6 +1,7 @@
 # Supporting Material: Imbalanced Learning in Astronomy (version 1.0)
 This notebook explores the main issues which reduce the accuracy of Machine Learning (ML) algorithms, used for candidate classification. It was written to support a talk delivered at EWASS 2018.
 
+[![DOI](https://zenodo.org/badge/128120055.svg)](https://zenodo.org/badge/latestdoi/128120055)
 
 ## Author: Rob Lyon
 ## Email : robert.lyon@manchester.ac.uk
